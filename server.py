@@ -9,7 +9,7 @@ import uuid
 from datetime import datetime
 
 # 🔐 Put this in environment variable in production
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 app = Flask(__name__)
 CORS(app)
