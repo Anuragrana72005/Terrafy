@@ -7,11 +7,11 @@ import time
 import subprocess
 
 # ---------------- TWILIO CONFIG ----------------
-TWILIO_SID = "AC5fc5c6ad85fb57f5318b0fd5c537d8ff"
-TWILIO_TOKEN = "57d050eff73a193bf70e2861625b45ec"
+TWILIO_SID = "Af"
+TWILIO_TOKEN = ""
 
-TWILIO_WHATSAPP = "whatsapp:+14155238886"
-YOUR_NUMBER = "whatsapp:+918872862277"
+TWILIO_WHATSAPP = "whatsapp:+6"
+YOUR_NUMBER = "whatsapp:+"
 
 # 🔴 MUST MATCH RUNNING NGROK URL
 NGROK_BASE_URL = "https://convectional-monte-alarmedly.ngrok-free.dev"
