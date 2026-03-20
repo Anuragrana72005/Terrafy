@@ -1,0 +1,88 @@
+Timestamp,Node,latitude,longitude,risk_score,cloud_cover_pct,rain_prob,wind_speed,moisture_pct,health_index,summary,Action
+2025-12-18 23:38:04,Sky Node (Weather),30.740412863328622,76.77697130382025,0.9,90,High,,,,Demo storm,🌧️ Harvest NOW. Rain expected in 30–45 minutes.
+2025-12-18 23:38:26,Sky Node (Weather),30.74167730677639,76.78311696970621,0.9,90,High,,,,Demo storm,🌧️ Harvest NOW. Rain expected in 30–45 minutes.
+2025-12-18 23:38:46,Sky Node (Weather),30.728105431301216,76.77702256903086,0.9,90,High,,,,Demo storm,🌧️ Harvest NOW. Rain expected in 30–45 minutes.
+2025-12-18 23:39:07,Sky Node (Weather),30.735721958869895,76.77747256392495,0.9,90,High,,,,Demo storm,🌧️ Harvest NOW. Rain expected in 30–45 minutes.
+2025-12-19 01:06:59,Sky Node (Weather),30.73657391996806,76.77422261932222,0.9,90,High,,,,Demo storm,🌧️ Harvest NOW. Rain expected in 30–45 minutes.
+2025-12-19 01:07:24,Wind Node (Motion),30.732832667055924,76.78608728402004,0.8,,,Strong,,,Demo wind,🌾 Strong winds. Avoid pesticide spraying.
+2025-12-19 01:09:26,Soil Node B,30.74188303077845,76.78219081419869,0.85,,,,15,2,Demo dry soil,💧 Soil moisture low. Irrigation recommended.
+2025-12-19 01:09:38,Sky Node (Weather),30.736626068801996,76.78627116113114,0.9,90,High,,,,Demo storm,🌧️ Harvest NOW. Rain expected in 30–45 minutes.
+2025-12-19 01:30:22,Sky Node (Weather),30.733234673409132,76.7779931409197,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 01:38:06,Sky Node (Weather),30.73315532108957,76.78311226806812,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 01:42:45,Sky Node (Weather),30.74150151989515,76.77676722748085,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:28:43,Sky Node (Weather),30.739262761009055,76.78421350886674,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:37:43,Sky Node (Weather),30.741281388546597,76.78237059118442,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:38:06,Sky Node (Weather),30.729003363983743,76.77327733084051,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:38:29,Wind Node (Motion),30.72623172523917,76.77546050424945,0.85,Demo wind,🌬️ High wind. Avoid spraying.
+2025-12-19 09:43:58,Sky Node (Weather),30.7282538517955,76.78399332252027,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:50:56,Sky Node (Weather),30.729524722969895,76.77599498431492,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:54:02,Sky Node (Weather),30.72999900661494,76.77385573320161,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:59:08,Sky Node (Weather),30.742952691822392,76.78802110641907,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 09:59:47,Sky Node (Weather),30.736177957904648,76.78631148555083,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 10:35:35,Sky Node (Weather),30.729004796798066,76.77454693671237,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 13:08:22,Wind Node (Motion),30.733871939368047,76.78498588587165,0.85,Demo wind,🌬️ High wind. Avoid spraying.
+2025-12-19 22:27:07,Sky Node (Weather),30.726729675477525,76.77278490967568,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-19 22:39:20,Soil Node A,30.733741388171197,76.77487171114628,0.86,Demo dry soil,💧 Low moisture. Irrigation advised.
+2025-12-19 22:41:15,Wind Node (Motion),30.74079317296144,76.78678237934562,0.85,Demo wind,🌬️ High wind. Avoid spraying.
+2025-12-20 00:25:55,Sky Node (Weather),30.723705610648125,76.78695762000723,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 14:30:34,Sky Node (Weather),30.73831677027008,76.78868104023682,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 14:36:29,Sky Node (Weather),30.725447357092367,76.7695629404142,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 14:40:03,Sky Node (Weather),30.73500563700701,76.77338966374276,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 14:41:17,Sky Node (Weather),30.730055219312984,76.77641126068558,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 14:50:46,Sky Node (Weather),30.738831196409514,76.77091653851483,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 14:53:45,Wind Node (Motion),30.72872690782612,76.78640897563693,0.85,Demo wind,🌬️ High wind. Avoid spraying.
+2025-12-20 14:56:20,Sky Node (Weather),30.732623783857036,76.77799042907465,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 15:11:06,Sky Node (Weather),,,0.5,Gemini unavailable – fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:12:26,Sky Node (Weather),,,0.5,Gemini unavailable – fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:12:32,Sky Node (Weather),,,0.5,Gemini unavailable – fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:12:37,Sky Node (Weather),,,0.5,Gemini unavailable – fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:12:43,Sky Node (Weather),,,0.5,Gemini unavailable – fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:26:19,Sky Node (Weather),,,0.5,Gemini unavailable — fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:27:44,Sky Node (Weather),,,0.5,Gemini unavailable — fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:28:15,Sky Node (Weather),,,0.5,Gemini unavailable — fail-safe alert,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:36:04,Sky Node (Weather),,,0.5,Gemini unavailable — fail-safe alert,✅ Weather clear.
+2025-12-20 15:36:29,Sky Node (Weather),,,0.5,Gemini unavailable — fail-safe alert,✅ Weather clear.
+2025-12-20 15:39:59,Sky Node (Weather),,,0.5,Gemini unavailable — fail-safe alert,✅ Weather clear.
+2025-12-20 15:40:34,Sky Node (Weather),,,0.5,Gemini unavailable — fail-safe alert,✅ Weather clear.
+2025-12-20 15:46:31,Sky Node (Weather),,,0.9,Gemini unavailable — fail-safe alert,✅ Conditions normal.
+2025-12-20 15:49:00,Sky Node (Weather),30.73186834691303,76.78670333338948,0.9,Heavy clouds observed,🌧️ Rain risk detected. Harvest immediately.
+2025-12-20 15:50:02,Sky Node (Weather),,,0.9,Gemini unavailable — fail-safe alert,✅ Conditions normal.
+2025-12-20 15:59:11,Sky Node (Weather),,,0.5,Gemini unavailable – fail-safe alert,✅ Conditions normal.
+2025-12-20 16:01:39,Sky Node (Weather),,,0.5,Gemini unavailable – fail-safe alert,✅ Conditions normal.
+2025-12-20 16:07:10,Sky Node (Weather),30.739898120605304,76.7775945724448,0.92,Demo storm,🌧️ Rain risk high. Harvest immediately.
+2025-12-20 16:29:07,🌤️ Sky Node,,,-0.01,No sky visible in the image for analysis.,✅ **ALL CLEAR** - Normal operations OK
+2025-12-20 16:30:38,🌤️ Sky Node,,,0.95,Heavy clouds,🌧️ **URGENT: Harvest NOW** - Heavy rain incoming
+2025-12-20 16:31:36,🌤️ Sky Node,,,0.0,Sky not visible in the image. The image shows a person using a laptop.,✅ **ALL CLEAR** - Normal operations OK
+2025-12-20 16:37:03,🌤️ Sky Node,,,1.0,"Extremely heavy clouds, completely dark",🌧️ **URGENT: Harvest NOW** - Heavy rain incoming
+2025-12-20 16:39:07,🌤️ Sky Node,,,0.65,Heavy clouds,🌧️ **URGENT: Harvest NOW** - Heavy rain incoming
+2025-12-20 16:40:48,🌤️ Sky Node,,,0.0,No sky photo detected in the provided image. The image shows a laptop and a person's leg.,✅ **ALL CLEAR** - Normal operations OK
+2025-12-20 16:41:31,🌤️ Sky Node,,,0.65,Heavy clouds,🌧️ **URGENT: Harvest NOW** - Heavy rain incoming
+2025-12-20 17:22:16,🌤️ Sky Node,30.73068927281699,76.7758213542091,0.85,DEMO: Storm alert!,🌧️ URGENT: Harvest NOW - Heavy rain incoming
+2025-12-20 17:29:52,Sky Node,,,0.2,API fallback,Conditions normal.
+2025-12-20 17:30:06,Sky Node,,,0.2,API fallback,Conditions normal.
+2025-12-20 17:30:13,Sky Node,,,0.2,API fallback,Conditions normal.
+2025-12-20 17:30:21,Sky Node,,,0.2,API fallback,Conditions normal.
+2025-12-20 17:30:25,Sky Node,,,0.2,API fallback,Conditions normal.
+2025-12-20 17:33:22,🌤️ Sky Node,30.73983740251688,76.77190262267341,0.85,DEMO: Storm alert!,🌧️ **URGENT: Harvest NOW** - Heavy rain incoming
+2025-12-20 17:37:32,🌤️ Sky Node,30.728631527782227,76.77469859251981,0.85,DEMO: Storm alert!,🌧️ **URGENT: Harvest NOW** - Heavy rain incoming
+2025-12-20 17:42:49,Sky Node,,,0.2,API fallback,Conditions normal.
+2025-12-20 17:45:36,Sky Node,,,0.2,API fallback,Conditions normal.
+2025-12-20 17:49:09,Sky Node,,,0.0,"The provided image is taken indoors and does not show any portion of the sky. Therefore, it is impossible to accurately assess cloud cover or rain probability. Based on the lack of any visible outdoor elements, a rain probability of 'Low' is assigned, but this is not based on direct observation of the sky.",Conditions normal.
+2025-12-20 18:58:17,Wind Node,,,0.4,The image appears to be taken indoors with no visible indicators of wind movement.,Conditions normal.
+2025-12-20 22:24:57,Sky Node,,,0.0,"The sky is completely dark, providing no visible information about cloud cover or current weather conditions. Based purely on the lack of any visible clouds, the cloud cover is reported as 0%. However, this extreme darkness prevents accurate assessment and does not rule out the presence of clouds that are simply not illuminated. No signs of precipitation are visible, suggesting a low probability of rain based on visual cues alone.",Conditions normal.
+2025-12-20 22:37:16,Sky Node,30.731191380329694,76.78758156730801,0.85,Demo storm,Rain risk high. Harvest now.
+2025-12-20 22:38:05,Wind Node,30.732089896937627,76.78074771264296,0.85,Demo wind,High wind. Avoid spraying.
+2025-12-20 22:55:21,Sky Node,30.725257851628058,76.78520637951333,0.85,Demo storm,Rain risk high. Harvest now.
+2025-12-21 00:53:19,Sky Node,30.731102196092788,76.77140919371989,0.85,Demo storm,Rain risk high. Harvest now.
+2025-12-21 00:53:55,Sky Node,30.731204689908775,76.77637571352658,0.85,Demo storm,Rain risk high. Harvest now.
+2025-12-21 01:53:19,Sky Node,,,0.0,"The provided image does not show the sky or any outdoor environment, making it impossible to determine cloud cover or rain probability for farmers. The image depicts an indoor scene with people.",Conditions normal.
+2025-12-21 06:02:28,Sky Node,,,0.95,"The sky is heavily overcast with widespread rain. A bright light source, possibly the moon, is visible through the thick precipitation, indicating a nighttime setting. Farmers should expect persistent and heavy rainfall.",Rain risk high. Harvest now.
+2025-12-21 06:07:01,Sky Node,,,0.0,"The provided image appears to be taken indoors, showing a ceiling with artificial lighting. There is no visible sky, making it impossible to accurately assess cloud cover or rain probability for outdoor conditions. Based on the indoor setting, no clouds are visible.",Conditions normal.
+2026-01-28 19:22:53,Sky Node,30.727289670411448,76.77804469591658,0.85,Demo storm,Rain risk high. Harvest now.
+2026-01-28 19:23:57,Sky Node,30.73227149613965,76.78301882767073,0.85,Demo storm,Rain risk high. Harvest now.
+2026-01-28 21:37:06,Sky Node,30.734082740910278,76.77781923381761,0.85,Demo storm,Rain risk high. Harvest now.
+2026-01-28 21:40:19,Sky Node,30.74043871158055,76.77199544185208,0.85,Demo storm,Rain risk high. Harvest now.
+2026-01-30 05:59:57,Sky Node,30.74049741302626,76.77554418526367,0.85,Demo storm,Rain risk high. Harvest now.
+2026-01-30 06:01:56,Wind Node,30.7278632913494,76.77970714265567,0.85,Demo wind,High wind. Avoid spraying.
+2026-01-30 06:11:24,Sky Node,30.723667387452668,76.77632347117144,0.85,Demo storm,Rain risk high. Harvest now.
+2026-01-30 06:37:42,Sky Node,30.73018678547165,76.7762346871421,0.85,Demo storm,Rain risk high. Harvest now.

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kisan Mitra AI | AgriVue Command Center</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="kisan.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="logo.png">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <a href="index.html" class="back-link">← Back to AgriVue</a>
+        <div class="logo">TERR<strong>AFY</strong> | Kisan Mitra</div>
+        <div class="nav-controls">
+            <div class="status-indicator">
+                <span class="pulse-dot"></span> System Online
+            </div>
+            <select id="language" class="lang-select">
+                <option value="hi">हिंदी (Hindi)</option>
+                <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option>
+                <option value="en">English</option>
+            </select>
+        </div>
+    </header>
+
+    <main class="layout">
+        <section class="avatar-section">
+            <div class="avatar-container">
+                <div class="scan-line"></div>
+                <img src="farmer.png" class="avatar-3d" id="avatar" alt="Kisan Mitra">
+            </div>
+            <div class="avatar-info">
+                <h2>Kisan Mitra AI</h2>
+                <p>Advanced Agricultural Assistant • Voice Enabled</p>
+            </div>
+        </section>
+
+        <section class="chat-section">
+            
+            <div class="chat-header">
+                <h3>Live Consultation Log</h3>
+                <button id="stopBtn" class="stop-btn" title="Stop Audio">⏹ Stop Audio</button>
+            </div>
+
+            <div class="chat-box" id="chatBox">
+                <div class="msg bot">
+                    <div class="msg-content">
+                        🙏 Namaste! Main aapka Kisan Mitra hoon. Fasal, kheti ya mausam ki jankari ke liye mujhse sawaal poochiye.
+                    </div>
+                </div>
+            </div>
+
+            <div class="quick-prompts">
+                <span>Try asking:</span>
+                <button class="chip" onclick="setPrompt('Aaj ka mausam kaisa rahega?')">🌤️ Weather</button>
+                <button class="chip" onclick="setPrompt('Gehu ki fasal mein konsi khad dalein?')">🌾 Fertilizer</button>
+                <button class="chip" onclick="setPrompt('Mandi mein chawal ka bhav kya hai?')">📊 Market Rates</button>
+            </div>
+
+            <div class="input-bar">
+                <input type="text" id="question" placeholder="Type your agricultural query here..." autocomplete="off" />
+                <button id="sendBtn" class="send-btn">➤</button>
+            </div>
+
+        </section>
+    </main>
+
+    <script src="kisan.js"></script>
+</body>
+</html>
