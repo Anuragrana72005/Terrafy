@@ -82,10 +82,10 @@ MODEL = "gemini-2.5-flash"
 client = genai.Client(api_key=API_KEY)
 
 # ---------------- TWILIO WHATSAPP ----------------
-TWILIO_SID = "AC5fc5c6ad85fb57f5318b0fd5c537d8ff"
-TWILIO_TOKEN = "57d050eff73a193bf70e2861625b45ec"
-WHATSAPP_FROM = "whatsapp:+14155238886"
-WHATSAPP_TO = "whatsapp:+918872862277"
+TWILIO_SID = "AC"
+TWILIO_TOKEN = "57c"
+WHATSAPP_FROM = "whatsapp:+14"
+WHATSAPP_TO = "whatsapp:+91*********"
 
 twilio_client = Client(TWILIO_SID, TWILIO_TOKEN)
 
