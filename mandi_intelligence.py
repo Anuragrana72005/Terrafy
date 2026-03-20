@@ -40,8 +40,8 @@ st.markdown("""
 # -------------------------------
 # 🔑 CREDENTIALS
 # -------------------------------
-MANDI_API_KEY = "579b464db66ec23bdd0000013489abd871054a72531e1063c7f40b73"
-OPENROUTER_API_KEY = "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"
+MANDI_API_KEY = ""
+OPENROUTER_API_KEY = "c"
 
 # =====================================================
 # 📍 LOCATION & TARGETING
