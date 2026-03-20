@@ -85,7 +85,7 @@ st.markdown("""
 # ==============================
 # 🔐 SYSTEM CREDENTIALS
 # ==============================
-API_KEY = "AIzaSyD6lG-dydZ_yp7aeoVc4kT96nVOYK5HiWA"
+API_KEY = "Gemini API key"
 client = genai.Client(api_key=API_KEY)
 
 # ==============================
