@@ -1,0 +1,44 @@
+# Core
+streamlit
+requests
+python-dotenv
+pandas
+numpy
+
+# AI / LLM
+google-generativeai
+openai
+
+# Computer Vision
+opencv-python-headless
+ultralytics
+Pillow
+
+# Data Science / ML
+scikit-learn
+
+# Visualization
+plotly
+altair
+pydeck
+folium
+streamlit-folium
+
+# PDF / QR
+reportlab
+fpdf
+qrcode
+
+# Twilio
+twilio
+
+# System / Utils
+psutil
+
+# Backend (if used)
+flask
+flask-cors
+gunicorn
+
+# Async / TTS
+edge-tts
